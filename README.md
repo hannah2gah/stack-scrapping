@@ -31,14 +31,15 @@ Websites: [MongoDB](https://www.mongodb.com)
 ### Installing
 
 1. Import environment.yml
-    
-    conda env create -f environment.yml
-
+   ```
+   conda env create -f environment.yml
+   ```
 2. Scrape the web
-    
-    scrapy crawl stack
+   ```
+   scrapy crawl stack
+   ```
 
 ### Result
 
 I create a new database name `stackoverflow` to store the scraping result. 
-![Alt text](image)
+![Alt text](image/store_database.png)
