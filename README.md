@@ -32,7 +32,7 @@ This is a Python web scraping project which scrape Stack Overflow new questions 
 I create a new database name `stackoverflow` to store the scraping result. 
 ![Alt text](image/store_database.png)
 
-### Documentation
+### Documentations
 
 - [MongoDB](https://www.mongodb.com)
 - [PyMongo](https://pymongo.readthedocs.io/en/stable/)
